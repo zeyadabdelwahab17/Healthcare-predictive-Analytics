@@ -1,5 +1,11 @@
 # Healthcare Predictive Analytics  
-**Team Members**: Zeyad Abdelwahab, Aly Osama, Maryam Elkady, Omar Hegazy, Mayada Magdy, Mohanad Gama
+**Team Members**:
+Zeyad Abdelwahab
+Aly Osama
+Maryam Elkady
+Mayada Magdy
+Omar Hegazy
+Mohanad Gama
 
 ## 📌 Project Overview  
 This project focuses on Healthcare Predictive Analysis, leveraging data science techniques to analyze healthcare data and extract meaningful insights.  
